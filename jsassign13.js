@@ -11,3 +11,4 @@ function findCount(searchItem) {
 
 let result = findCount("Salman"); 
 console.log(result);
+//console.log(findCount('Salman'));
